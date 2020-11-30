@@ -25,3 +25,13 @@ table, td, th {
     th {
            font-size: 1.5em;
     }
+    .dölt {font-style: italic; }
+
+    .felköver {font-weight: bold;
+    }
+
+    .nem-dölt {
+        font-style: normal;
+    }
+
+    .alahuzott { text-decoration: underline;}
