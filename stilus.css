@@ -35,3 +35,9 @@ table, td, th {
     }
 
     .alahuzott { text-decoration: underline;}
+
+    ol li {
+        list-style-type: lower-greek;  
+    }
+
+    
