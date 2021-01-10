@@ -39,5 +39,9 @@ table, td, th {
     ol li {
         list-style-type: lower-greek;  
     }
-
-    
+    .float-left {
+        float:left;
+    }
+    .float-right {
+        float:right;
+    }    
